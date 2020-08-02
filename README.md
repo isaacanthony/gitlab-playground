@@ -1,5 +1,9 @@
 # gitlab-playground
 
 ## Usage
-* `make start`: Available on http://localhost:3000.
+* `make start`
 * `make stop`
+
+## API
+* Web UI: http://localhost:3000
+* GraphQL Explorer: http://localhost:3000/-/graphql-explorer
